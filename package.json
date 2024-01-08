@@ -16,6 +16,7 @@
   },
   "description": "A project that does something awesome",
   "author": "Akintayo Durotoye",
+  "keywords": [ "descriptive", "related", "words" ]
   "version": "1.0.0",
   "license": "ISC"
 }
