@@ -16,7 +16,7 @@
   },
   "description": "A project that does something awesome",
   "author": "Akintayo Durotoye",
-  "keywords": [ "descriptive", "related", "words" ],
+  "keywords": [ "freecodecamp", "nodejs", "backend" ],
   "version": "1.0.0",
   "license": "ISC"
 }
